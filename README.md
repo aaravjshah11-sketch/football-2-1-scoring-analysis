@@ -61,6 +61,11 @@ real dataset (useful for checking the code runs before downloading anything).
   significantly from an even split (χ² = 2.69, df = 2, p = 0.26). The order of goals in a 2–1 match
   is statistically indistinguishable from random.
 
+![Observed vs expected goal orders in 2–1 matches](figures/fig4_sequences.png)
+
+*The three goal orders sit almost exactly on the one-third line, showing no significant departure
+from an even split.*
+
 ## Author
 
 Aarav Shah — International STEM Research Challenge submission.
