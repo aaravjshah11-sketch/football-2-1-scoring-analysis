@@ -68,7 +68,7 @@ from an even split.*
 
 ## Author
 
-Aarav Shah — International STEM Research Challenge submission.
+Aarav Shah 
 
 ## References
 
